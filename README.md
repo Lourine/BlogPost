@@ -73,6 +73,11 @@ Given a user inputs there credentials, when said user logs in he/she should be a
         $ python3.8 -m pip install Flask-Bootstrap
         $ python3.8 -m pip install Flask-Script
         $ python3.8 -m pip install Flask-Login
+        $ python3.8 -m pip install Flask-Wtf
+        $ python3.8 -m pip install Flask-Migrate
+        $ python3.8 -m pip install Flask-Mail
+        $ python3.8 -m pip install Flask-SQLAlchemy
+        $ python3.8 -m pip install pyscopg2
         
 
 
